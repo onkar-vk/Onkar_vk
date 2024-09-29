@@ -1,16 +1,18 @@
- # Welcome! I'm Onkar Kulkarni
+
 
 <p align="center">
- <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" /></p>
-
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+<div id="badges">
 <div id="badges">
  <p align="center">
   <a href="https://www.linkedin.com/in/onkar-k-data/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
+  </a> 
 </div>
+ 
+------
 
-
+# Welcome! I'm Onkar Kulkarni
 
 - 💼 Experienced Data Analyst, specializing in leveraging data to drive business decisions. Extracted and analyzed large datasets using SQL and MS excel, creating detailed reports for the product and management team. Automated routine data analysis processes using Python scripts and SQL queries, reducing reporting time.
 - 🔧Supported senior analysts in developing Power BI and Tableau dashboards to track KPIs, enabling real-time business insights and improving data-driven decision-making. Collaborated with senior analysts to monitor and track (KPIs) such as sales, customer acquisition, and engagement metrics, helping to identify areas for optimization.
@@ -19,7 +21,8 @@
 - 👥 Looking to collaborate on projects that tackle real-world business problems through data-driven insights.
 - 🎵 Outside of work, I enjoy coding, exploring new music, and watching action and adventure movies.
 
-  
+
+------
 
 ## Skills and Tools: 
 <div>
@@ -37,6 +40,10 @@
   <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain-wordmark.svg" title="VisualStudio" alt="VisuaStudio" width="60" height="60"/> </a> 
   <a href="https://azure.microsoft.com/en-us/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg" title="Azure" alt="Azure" width="60" height="60"/> </a>
 
+# Top Projects
+
+1. ## [Excel_Rajiv_Store_Analysis](https://github.com/onkar-vk/Excel_Rajiv_Store_Analysis)
+2. ## [Music_Store_Analysis_SQL_Project](https://github.com/onkar-vk/Music_Store_Analysis_SQL_Project)
 
 
 
