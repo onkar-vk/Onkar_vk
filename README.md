@@ -1,9 +1,10 @@
- # ONKAR KULKARNI
+ # Welcome! I'm Onkar Kulkarni
 
 <p align="center">
  <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" /></p>
 
 <div id="badges">
+ <p align="center">
   <a href="https://www.linkedin.com/in/onkar-k-data/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
